@@ -1,2 +1,1 @@
-# blocker
-Block unwanted websites
+# BLOCKER
